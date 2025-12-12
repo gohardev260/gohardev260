@@ -1,8 +1,23 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gohar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20&descAlignY=51&descAlign=62)
+<!-- View Counter -->
+<img src="https://komarev.com/ghpvc/?username=gohardev260&label=Profile%20Views&color=20C20E&style=flat" alt="gohardev260" />
+
+<br/>
+
+<!-- Adaptive Header -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gohar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20&descAlignY=51&descAlign=62&stroke=20C20E">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gohar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20&descAlignY=51&descAlign=62&stroke=000000">
+  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gohar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20&descAlignY=51&descAlign=62">
+</picture>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Random Dev Joke -->
+<img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true" alt="Jokes Card" />
 
 <br/>
 
@@ -41,6 +56,14 @@
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gohardev260&theme=transparent" />
+
+<br/>
+
+### 🎵 Now Playing
+<!-- Replace YOUR_SPOTIFY_USER_ID with your actual Spotify User ID -->
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="500px" />
+</a>
 
 <br/>
 
