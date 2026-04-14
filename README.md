@@ -1,89 +1,78 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF Banner" height="200" width="400">
+</div>
 
-<!-- View Counter -->
-<img src="https://komarev.com/ghpvc/?username=gohardev260&label=Profile%20Views&color=20C20E&style=flat" alt="gohardev260" />
-
-<br/>
-
-<!-- Adaptive Header -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gohar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20&descAlignY=51&descAlign=62&stroke=20C20E">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gohar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20&descAlignY=51&descAlign=62&stroke=000000">
-  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gohar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20&descAlignY=51&descAlign=62">
-</picture>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- Random Dev Joke -->
-<img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true" alt="Jokes Card" />
-
-<br/>
-
-### 🏆 GitHub Trophies
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=gohardev260&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
-</a>
-
-<br/>
-
-### 🛠️ Tech Stack
+<h1 align="center">Hi 👋, I'm Gohar Rehman</h1>
+<h3 align="center">An ambitious AI Stack Engineer & Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,mongodb,postgres,docker,kubernetes,git,github,vscode,linux&perline=8" />
+  <img src="https://komarev.com/ghpvc/?username=gohardev260&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-<br/>
+<br>
 
-### 📊 GitHub Stats
+### 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gohardev260&show_icons=true&theme=transparent&hide_border=true&title_color=20C20E&text_color=FFFFFF&icon_color=20C20E" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gohardev260&layout=compact&theme=transparent&hide_border=true&title_color=20C20E&text_color=FFFFFF&icon_color=20C20E" height="150" alt="languages graph"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding Cat" />
+
+<ul>
+  <li><p>🔭 I’m currently focused on building <strong>scalable web architectures and intelligent AI integrations.</strong></p></li>
+  <li><p>🌱 I’m currently exploring <strong>Advanced AI Models (Claude) & Agentic Workflows (Antigravity).</strong></p></li>
+  <li><p>🤝 I’m available for <strong>freelance opportunities and exciting side projects.</strong></p></li>
+  <li><p>💬 Ask me about <strong>Python, JavaScript, and Cloudflare.</strong></p></li>
+  <li><p>📫 How to reach me: <strong><a href="mailto:goharrehmanfsd260@gmail.com">goharrehmanfsd260@gmail.com</a></strong></p></li>
+</ul>
+
+<br clear="both">
+
+### 🛠️ Languages & Tools
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="40" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="40" alt="css3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" height="40" alt="vscode" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" height="40" alt="git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" height="40" alt="github" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" title="Cloudflare" height="40" alt="cloudflare" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" title="Netlify" height="40" alt="netlify" />
 </div>
 
-<br/>
+<br>
 
-### 🔥 Streak & Contributions
+### 📈 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gohardev260&theme=transparent&hide_border=true&title_color=20C20E&text_color=FFFFFF&icon_color=20C20E&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gohardev260&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gohardev260&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<br/>
+<br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gohardev260&theme=transparent" />
+### 🐍 Contribution Grid
 
-<br/>
+<img src="https://raw.githubusercontent.com/gohardev260/gohardev260/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-### 🎵 Now Playing
-<!-- Replace YOUR_SPOTIFY_USER_ID with your actual Spotify User ID -->
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="500px" />
-</a>
-
-<br/>
-
-### 🐍 Snake Animation
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gohardev260/gohardev260/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gohardev260/gohardev260/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gohardev260/gohardev260/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-<br/>
+<br>
 
 ### 🤝 Connect with me
 
-<p align="center">
-<a href="https://github.com/gohardev260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gohardev260" height="30" width="40" /></a>
-</p>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
+<div align="left">
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+  <a href="https://wa.me/your-number"><img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" /></a>
 </div>
+
+<br>
+
+---
+<p align="center">Credits: <a href="https://github.com/100rabhcsmc">Saurabh Chavan</a> & <a href="https://github.com/maurodesouza">Mauro de Souza</a> - Adapted for Gohar Rehman</p>
